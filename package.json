@@ -1,0 +1,25 @@
+{
+  "name": "soylu-site",
+  "version": "0.0.1",
+  "description": "Website for Mustafa Soylu.",
+  "main": "index.js",
+  "authors": {
+    "name": "Mustafa SOYLU",
+    "email": "mohkargan@gmail.com"
+  },
+  "repository": "https://github.com/mustafasoylu/soylu-site.git/soylu-site",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-social-share": "^1.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "vue-feather-icons": "^5.1.0"
+  }
+}
