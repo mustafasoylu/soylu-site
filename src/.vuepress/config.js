@@ -95,10 +95,7 @@ module.exports = {
             link: '/blog/',
           },
         ],
-        sidebar: {
-          '/blog/': ['', 'article1', 'article2', 'article3'],
-          '/japan/': ['', 'article1'],
-        },
+        sidebar: 'auto',
       },
       '/tr/': {
         // text for the language dropdown
@@ -120,7 +117,7 @@ module.exports = {
         algolia: {},
         nav: [
           {
-            text: 'Home',
+            text: 'Anasayfa',
             link: '/tr/',
           },
           {
@@ -137,7 +134,6 @@ module.exports = {
           },
         ],
         sidebar: {
-          '/tr/blog/': ['', 'article1', 'article2', 'article3'],
           '/tr/japan/': ['', 'japonca', 'degisim'],
         },
       },
