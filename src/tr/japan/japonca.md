@@ -115,4 +115,6 @@ En başta anlattığım üzere dil yapısı bizimkine benzeyen bir dil. Sondan e
 
 Nerden çalışmamız gerektiine gelince, benim başlangıç seviyeleri için önerim [Minna no Nihongo I](https://www.amazon.com/Minna-Nihongo-Book-Bk-Japanese/dp/4883191028) ve II kitapları. Minna no Nihongo serisi tabii ki Japonca ve çalışabilmek için hiragana ve katakana bilmek zorunlu. Zaten benim de başta bahsettiğim üzere bu iki alfabeyi öğrenmeden gramere başlamak doğru bir karar değil. Örnekleri bol olan bu kitapta hiç bir alıştırma pas geçilmemeli. En önemli artısı ise bu kitabın [English Translation and Grammatical Notes](https://www.amazon.com/Minna-Nihongo-Honyaku-Translation-Grammatical/dp/4883191079/ref=sr_1_1?s=books&ie=UTF8&qid=1540562248&sr=1-1&keywords=minna+no+nihongo+grammatical+notes) adlı yardımcı kitabı. Her ünite öncesi başvurulması gereken bu kitap, ünitenin kelime bilgisini size hiragana/kanji, katakana &rarr; İngilizce olarak veriyor başlangıçta. Dil bilgisini rahatça anlamak için bu kelimeleri iyice öğrenip, direk dil bilgisine odaklanabilmek büyük bir yarar sağlıyor. Size ek kelime bilgisi sağlıyor ve dil bilgisi kalıp/kurallarını İngilizce olarak açıklıyor. Özellikle kendi başına çalışmak isteyenler için inanılmaz bir kaynak. İlk büyük zorluğu atlattıktan sonra Japonca'ya kendiniz de bu yöntemlerle çalışabilirsiniz.
 
+<BuyMeACoffee />
+
 <Footer />

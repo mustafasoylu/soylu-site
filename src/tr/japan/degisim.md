@@ -77,4 +77,6 @@ Ağustos başı gibi CoE Japonya'da basılmış olup size gönderiliiyor ve size
 
 **Ver elini Japonya!**
 
+<BuyMeACoffee />
+
 <Footer />
