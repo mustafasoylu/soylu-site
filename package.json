@@ -14,12 +14,12 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@vuepress/theme-blog": "^2.3.3",
     "vuepress": "^1.5.3",
     "vuepress-plugin-social-share": "^1.1.0"
   },
   "dependencies": {
-    "bootstrap": "^5.1.3",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
     "vue-feather-icons": "^5.1.0"
   }
 }
