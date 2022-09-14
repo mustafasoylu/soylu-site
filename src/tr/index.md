@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: homepage
-heroImage: ../images/me.jpeg
+heroImage: ../../images/me.jpg
 heroText: Merhaba, ben Mustafa!
 tagline: Portfolio ve blog.
 actionText: Hakkımda →
@@ -13,7 +13,6 @@ features:
     details: Japoncayı da Japon kültürünü de seviyorum! Şu anda Japonya'da yaşamaktayım ve Japonca ve buraya gelirken aldığım JASSO ve MEXT busları hakkında bilgi veriyorum.
   - title: Müstakbel BLogger
     details: Kullandığım yazılımlar ve Japonya hakkında yazılar yazmayı düşünüyorum.
-# footer: Made by Mustafa SOYLU
 ---
 
 <Footer />
