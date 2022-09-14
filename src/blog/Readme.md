@@ -1,7 +1,7 @@
-<!-- # My Posts
+# My Posts
 
-<posts nav-tab="blog" /> -->
+<posts nav-tab="en-blog" />
 
-Under construction :building_construction:
+<!-- Under construction :building_construction: -->
 
 <Footer />
