@@ -14,7 +14,6 @@
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <div class="page-description">{{ page.frontmatter.description }}</div>
-          <div class="page-author">Author: {{ page.frontmatter.author }}</div>
         </div>
       </div>
     </router-link>
@@ -50,8 +49,8 @@ export default {
   width: 600px;
   height: 150px;
   margin: 10px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
+  border: 2px solid #cec;
+  border-radius: 5px;
   padding: 10px;
   display: flex;
   align-items: center;
@@ -62,14 +61,13 @@ export default {
   height: 100%;
 }
 .article-image {
-  /* height: 100%; */
   height: 150px;
 }
 .page-detail {
   justify-content: center;
   align-items: center;
   margin: auto;
-  width: 50%;
+  width: 60%;
 }
 
 .page-title {
@@ -81,8 +79,5 @@ export default {
 .page-description {
   color: grey;
   margin-bottom: 1em;
-}
-.page-author {
-  font-style: italic;
 }
 </style>
