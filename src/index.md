@@ -1,7 +1,7 @@
 ---
 home: true
 pageClass: homepage
-heroImage: images/me.jpeg
+heroImage: images/me.jpg
 heroText: Mustafa here! Welcome to my website!
 tagline: Portfolio and blog for me.
 actionText: Learn about me →
@@ -13,7 +13,6 @@ features:
     details: Love the language, love the country! Currently living in Japan and I plan to write about the scholarships I took, tha language learning process and generally about Japan.
   - title: Blogger to be
     details: I plan to write write about my daily life in Japan and some software stuff I do. Fingers crossed...
-# footer: Made by Mustafa SOYLU
 ---
 
 <Footer />
