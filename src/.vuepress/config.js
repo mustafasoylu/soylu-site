@@ -13,6 +13,7 @@ module.exports = {
       'meta',
       { name: 'apple-mobile-web-app-status-bar-style', content: 'black' },
     ],
+    ['link', { rel: 'icon', href: '/images/favicon.png' }],
   ],
   locales: {
     // The key is the path for the locale to be nested under.
@@ -49,11 +50,11 @@ module.exports = {
           type: 'linkedin',
           link: 'https://www.linkedin.com/in/soylumu/?locale=en_US',
         },
-        { type: 'mail', link: 'mohkargan@gmail.com' },
+        { type: 'mail', link: 'mailto:mohkargan@gmail.com' },
       ],
       copyright: [
         {
-          text: 'MIT Licensed | Copyright © 2018-present Vue.js',
+          text: 'MIT Licensed | Copyright © 2022 Mustafa Soylu',
         },
       ],
     },
@@ -147,12 +148,5 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     'social-share',
-    {
-      networks: ['facebook', 'twitter', 'email'],
-      email: 'mohkargan@gmail.com',
-      twitterUser: 'soylumucchan',
-      autoQuote: true,
-      isPlain: true,
-    },
   ],
 };
