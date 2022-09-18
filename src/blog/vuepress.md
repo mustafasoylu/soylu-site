@@ -62,7 +62,7 @@ Let's install the necessary libraries.
 # install default vuepress library
 npm i
 
-# install extra libraries we use in this project
+# install libraries and plugins we use in this project
 npm i vuepress-plugin-social-share vue-feather-icons @vuepress/plugin-back-to-top @vuepress/plugin-medium-zoom
 
 # run development server in local
@@ -107,3 +107,5 @@ Rest is coming soon...
 ## Deploy to Digitalocean
 
 <BuyMeACoffee />
+
+<Footer />
