@@ -17,7 +17,7 @@ I started a learning path called [Productivity For Creatives: Make More of Your 
 
 In order to achieve my goals, I learned that I have to choose several and focus on them. All the other goals become a "not-to-do list" for me. I have already experienced that trying to do everything simultaneously does not work. Thus, I have a maximum of 4 goals I focus on at a time.
 
-- Learn how to manage productivity
+- Set up habits and workflows
 - 4 days gym schedule for 2 months
 - PLMS Project
 - Find a source for learning drawing basics
@@ -29,8 +29,8 @@ I classified the things I want to achieve with little help from [this page](http
 ### Life Goals
 
 - Increase productivity in my daily life
-  - **Learn how to manage productivity**
-  - Set up habits and workflows
+  - ~~Learn how to manage productivity~~
+  - **Set up habits and workflows**
 - Read 250 books every year (currently 230/250)
 
 ### Fitness Goals
@@ -60,3 +60,5 @@ I classified the things I want to achieve with little help from [this page](http
 - Learn archery
 
 <BuyMeACoffee />
+
+<Footer />
