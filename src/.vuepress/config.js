@@ -96,7 +96,7 @@ module.exports = {
             link: '/blog/',
           },
         ],
-        sidebar: 'auto',
+        sidebar: { '/blog/': ['', 'goals', 'vuepress'] },
       },
       '/tr/': {
         // text for the language dropdown
