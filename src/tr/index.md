@@ -11,7 +11,7 @@ features:
     details: Backend ve frontend projeleri, ayrica deep learning projeleri.
   - title: Japanofil
     details: Japoncayı da Japon kültürünü de seviyorum! Şu anda Japonya'da yaşamaktayım ve Japonca ve buraya gelirken aldığım JASSO ve MEXT busları hakkında bilgi veriyorum.
-  - title: Müstakbel BLogger
+  - title: Müstakbel Blogger
     details: Kullandığım yazılımlar ve Japonya hakkında yazılar yazmayı düşünüyorum.
 ---
 
