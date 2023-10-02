@@ -15,17 +15,53 @@ module.exports = {
     ],
     ['link', { rel: 'icon', href: '/images/favicon.png' }],
     // add google analytics
-    // add noscript tag for google analytics
-   ['noscript', {type:"text/javascript",charset:"UTF-8"}, `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7Z5S578" height="0" width="0" style="display:none;visibility:hidden"></iframe>`],
-    ['script',{type:"text/javascript",src:"//www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js" ,charset:"UTF-8"}],
-      ['script',{type:"text/javascript",charset:"UTF-8"},`document.addEventListener('DOMContentLoaded', function () {
+    [
+      'noscript',
+      { type: 'text/javascript', charset: 'UTF-8' },
+      `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7Z5S578" height="0" width="0" style="display:none;visibility:hidden"></iframe>`,
+    ],
+    [
+      'script',
+      {
+        type: 'text/javascript',
+        src: 'https://www.termsfeed.com/public/cookie-consent/4.1.0/cookie-consent.js',
+        charset: 'UTF-8',
+      },
+    ],
+    [
+      'script',
+      { type: 'text/javascript', charset: 'UTF-8' },
+      `document.addEventListener('DOMContentLoaded', function () {
         cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"tr","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false});
-      });`],
-    ['script', {type:"text/plain","data-cookie-consent":"tracking" },`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-M7Z5S578');`]
+      });`,
+    ],
+    [
+      'script',
+      { type: 'text/plain', 'data-cookie-consent': 'tracking' },
+      `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-M7Z5S578');`,
+    ],
+    [
+      'script',
+      {
+        async: true,
+        type: 'text/javascript',
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-WSXST7Q8RC',
+        charset: 'UTF-8',
+      },
+    ],
+    [
+      'script',
+      { type: 'text/plain', 'data-cookie-consent': 'tracking' },
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-WSXST7Q8RC');`,
+    ],
   ],
   locales: {
     // The key is the path for the locale to be nested under.
