@@ -20,6 +20,7 @@
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "prettier": "^3.0.3",
     "vue-feather-icons": "^5.1.0"
   }
 }
